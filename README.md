@@ -1,5 +1,5 @@
 # reflection_app_server
-Daily Reflections App - This gives users access to daily reflections, reflections can be public or private. Reflections are private by default. https://www.codementor.io/olawalealadeusi896/building-simple-api-with-es6-krn8xx3k6
+Daily Reflections App - This gives users access to daily reflections, reflections can be public or private. Reflections are private by default. https://www.linkedin.com/in/ejiroedwin/
 
 ## Technologies
 - JavaScript (ES6)
